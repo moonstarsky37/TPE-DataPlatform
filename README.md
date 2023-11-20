@@ -1,12 +1,15 @@
 # Taipei City Data Dashboard Platform
 
-This repository hosts the codebase for the Taipei City Data Dashboard Platform—a showcase project designed to demonstrate and implement applications related to pregnancy issues. The platform serves as a static interface to display relevant data applications, with the data processing flow and backend components residing in separate projects.
+This repository hosts the codebase for the Taipei City Data Dashboard Platform — a showcase project designed to demonstrate and implement applications related to pregnancy issues. The platform serves as a static interface to display relevant data applications, with the data processing flow and backend components residing in separate projects.
 
 ## Project Details
 
 The UI and architecture of this project are built upon the foundation provided by [Taipei City Dashboard Frontend](https://github.com/tpe-doit/Taipei-City-Dashboard-FE). Additional features and content specific to pregnancy issues have been integrated.
 
 ### Preview
+
+![preview](https://github.com/moonstarsky37/TPE-DataPlatform/assets/9031339/c101e186-b1da-414b-8397-b7b98922832d)
+![preview-map](https://github.com/moonstarsky37/TPE-DataPlatform/assets/9031339/17e88f50-1601-44d5-95f9-6e5a9317ce7f)
 
 ## Getting Started
 
